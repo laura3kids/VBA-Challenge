@@ -1,12 +1,14 @@
 # Stock Analysis_VBA Challenge
----
+
 ## Overview of Project
 
 The goal of this project is to analyze stock data to inform consumers so they can make the most informed decisions on their investments. 
+___
 
 ### Purpose
 
 To analyze all the stock options for the two years for Steve so he can assist his parents in making the best financial decision on their investments. 
+___
 
 ### Results
 
@@ -14,6 +16,7 @@ To analyze all the stock options for the two years for Steve so he can assist hi
 
 All Stocks 2017 ![All Stocks 2017](https://github.com/laura3kids/VBA-Challenge/blob/main/All%20Stocks%202017.png)
 All Stocks 2018 ![All Stocks 2018](https://github.com/laura3kids/VBA-Challenge/blob/main/All%20Stocks%202018.png)
+___
 
 ### Summary
 
