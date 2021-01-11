@@ -13,7 +13,7 @@ ___
 
 ### Results
 
-2017 proved to be a year that stocks had greater returns.  Only one stock in 2017, TERP, had a loss for -7.2% and SEDG had the highest return of 184.5%. 2018 proved to be the reverse situation, where only two stocks, ENPH and RUN, had a postive return of 81.9% and 84.0%, respetively and DQ had the greatest loss of -62.6%. 
+2017 proved to be a year that stocks had greater returns.  Only one stock in 2017, TERP, had a loss for -7.2% and SEDG had the highest return of 184.5%. 2018 proved to be the reverse situation, where only two stocks, ENPH and RUN, had a postive return of 81.9% and 84.0%, respectively and DQ had the greatest loss of -62.6%. 
 
 All Stocks 2017 ![All Stocks 2017](https://github.com/laura3kids/VBA-Challenge/blob/main/All%20Stocks%202017.png)
 All Stocks 2018 ![All Stocks 2018](https://github.com/laura3kids/VBA-Challenge/blob/main/All%20Stocks%202018.png)
