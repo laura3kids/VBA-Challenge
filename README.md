@@ -16,6 +16,8 @@ To analyze all the stock options for the two years for Steve so he can assist hi
 
 There is an advantage to refactoring the code as the script runs faster.  Looping through all the data at one time made the code more efficient and therefore ran in less time. 
 
-![Run Time 2017](https://github.com/laura3kids/VBA-Challenge/blob/main/VBA_Challenge_2017.png)
+![Run_Time_2017](https://github.com/laura3kids/VBA-Challenge/blob/main/VBA_Challenge_2017.png)
 
-![Run Time 2018](
+![Run_Time_2018](https://github.com/laura3kids/VBA-Challenge/blob/main/VBA_Challenge_2018.png)
+
+
